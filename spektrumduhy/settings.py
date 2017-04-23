@@ -25,7 +25,7 @@ SECRET_KEY = 'oj12a#*ap5j=lqtix#q7gcq3v=atpar*apqe=$xyvj3(h&_z#d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['spektrumduhy.alwaysdata.net']
+ALLOWED_HOSTS = ['spektrumduhy.alwaysdata.net', '127.0.0.1']
 
 
 # Application definition
