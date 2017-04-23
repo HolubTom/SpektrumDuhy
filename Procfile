@@ -1,1 +1,1 @@
-web: guniccolorn spektrumduhy.wsgi
+web: gunicorn spektrumduhy.wsgi
